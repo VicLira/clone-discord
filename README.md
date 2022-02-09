@@ -21,7 +21,7 @@
 
 - <ins> [x] Add "scroll to new messages" button </ins> 
 - <ins> [x] Add state management (switch between Servers and Channels) </ins> 
-- <ins> [x] Back-end integration (roles, permissions, mentions, friend requests and more) </ins> 
+- [] Back-end integration (roles, permissions, mentions, friend requests and more)
 
 ## Usage
 
