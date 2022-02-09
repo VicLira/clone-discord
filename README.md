@@ -1,4 +1,4 @@
-<p align="center"> <h1> Discord UI Clone </h1> (partial) for study purposes.</p>
+<p align="center"> Discord UI Clone (partial) for study purposes.</p>
 <p align="center">Deployed <a href="https://uiclone-discord.netlify.app//">here</a>.</p>
 
 <hr>
