@@ -19,9 +19,9 @@
 
 ## Ideas to implement
 
-- <ins> [x] Add "scroll to new messages" button </ins> 
-- <ins> [x] Add state management (switch between Servers and Channels) </ins> 
-- [] Back-end integration (roles, permissions, mentions, friend requests and more)
+- [x] Add "scroll to new messages" button </ins> 
+- [x] Add state management (switch between Servers and Channels) </ins> 
+- [ ] Back-end integration (roles, permissions, mentions, friend requests and more)
 
 ## Usage
 
